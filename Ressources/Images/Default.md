@@ -10,6 +10,10 @@ Link: https://www.androidpit.de/die-besten-custom-roms-android-varianten-im-uebe
 
 ### Hardware (Smartphones)
 
+#### FairPhone
+
+- FairPhone 2
+
 #### Huawei 
 
 - Honor View 10
