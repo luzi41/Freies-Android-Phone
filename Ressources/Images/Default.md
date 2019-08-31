@@ -1,1 +1,1 @@
-
+# Standard Konfiguration
