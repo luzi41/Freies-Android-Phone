@@ -6,9 +6,11 @@ androidpit.de: "Allen Custom-ROMs gemein ist, dass sie ohne Google-Apps ausgelie
 
 Link: https://www.androidpit.de/die-besten-custom-roms-android-varianten-im-ueberblick
 
-## Hardware (Smartphone)
+## LineageOS
 
-###Huawei 
+### Hardware (Smartphones)
+
+#### Huawei 
 
 - Honor View 10
 - P 20 Pro
