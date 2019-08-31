@@ -1,1 +1,3 @@
 # Standard Konfiguration
+
+## Hardware (Smartphone)
