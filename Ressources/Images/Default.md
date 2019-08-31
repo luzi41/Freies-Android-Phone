@@ -8,6 +8,8 @@ Link: https://www.androidpit.de/die-besten-custom-roms-android-varianten-im-uebe
 
 ## LineageOS
 
+A free and open-source operating system for various devices, based on the Android mobile platform.
+
 ### Hardware (Smartphones)
 
 #### FairPhone
