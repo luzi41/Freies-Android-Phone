@@ -1,11 +1,5 @@
 # Standard Konfiguration
 
-## Custom ROMs
-
-androidpit.de: "Allen Custom-ROMs gemein ist, dass sie ohne Google-Apps ausgeliefert werden. Wer ohnehin Android ohne Google verwenden wollte, ist damit aber noch nicht gut bedient. Wichtige Mitbringsel der Google-Suite wie Standortdienste, Play Store und Diebstahlschutz sollten nicht fehlen."
-
-Quelle: AndoidPit, Die besten Custom-Roms im Überblick, Url: https://www.androidpit.de/die-besten-custom-roms-android-varianten-im-ueberblick, zuletzt abgerufen: 31.08.2019
-
 ## LineageOS
 
 A free and open-source operating system for various devices, based on the Android mobile platform.
