@@ -3,7 +3,7 @@ Anleitung für ein Smartphone auf Android-Basis ohne Google-Services. Diese Anle
 
 Ideen und Anregungen sind herzlich willkommen!
 
-Nachdem Google etliche wichtige Komponenten aus dem queloffenen Android-Kern ausgelagert und in geschlossene Google-Dienste überführt hatte, sind etliche Android-Apps sind inzwischen abhängig von den Closed-Source-Komponenten wie dem Standortdienst oder dem Cloud Messaging.
+Nachdem Google etliche wichtige Komponenten aus dem queloffenen Android-Kern ausgelagert und in geschlossene Google-Dienste überführt hatte, sind etliche Android-Apps inzwischen abhängig von den Closed-Source-Komponenten wie dem Standortdienst oder dem Cloud Messaging.
 
 ## Custom ROMs
 
