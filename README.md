@@ -1,6 +1,9 @@
 # Freies-Android-Phone
-Anleitung für ein Smartphone auf Android-Basis ohne Google-Services. Diese Anleitung ist für unerfahrene Benutzer gedacht, die ein Smartphone haben wollen, welches keine Daten automatisch an Softwareanbieter wie Google etc. übermittelt. Leider steckt dieses kleine Projekt noch in den Anfängen. Geplante Projektdauer ist aber nur 4 Wochen. Bis dahin sollte die erste brauchbare Version online sein.
+Anleitung für ein Smartphone auf Android-Basis ohne Google-Services. Diese Anleitung ist für unerfahrene Benutzer gedacht, die ein Smartphone haben wollen, welches keine Daten automatisch an Softwareanbieter wie Google etc. übermittelt. 
+
 Ideen und Anregungen sind herzlich willkommen!
+
+Nachdem Google etliche wichtige Komponenten aus dem queloffenen Android-Kern ausgelagert und in geschlossene Google-Dienste überführt hatte, sind etliche Android-Apps sind inzwischen abhängig von den Closed-Source-Komponenten wie dem Standortdienst oder dem Cloud Messaging.
 
 ## Custom ROMs
 
