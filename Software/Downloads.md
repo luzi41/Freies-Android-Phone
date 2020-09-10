@@ -1,1 +1,3 @@
-# Allgemein für alle Modlle
+# Allgemein für alle Modelle
+
+## Magisk-Manager
