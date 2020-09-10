@@ -17,7 +17,7 @@ LineageOS ist im Gegensatz zu den meisten anderen Custom-ROMS für eine Vielzahl
 
 Website: https://lineageos.org/
 
-/LineageOS/Samsung/SM-G970F/
+[here] (/LineageOS/Samsung/SM-G970F/)
 
 ## Quellen
 
