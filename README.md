@@ -21,6 +21,7 @@ Website: https://lineageos.org/
 
 Für das Samsung Galaxy S10e gibt es derzeit kein offizielles Custom-ROM von LineageOS. Auf XDA-Developers finddet man jedoch einige aktuelle LineageOS-Versionen auch für das besagte Samsung Galaxy S10e.
 
+#### Voraussetzungen
 
 ## Quellen
 
