@@ -17,7 +17,7 @@ LineageOS ist im Gegensatz zu den meisten anderen Custom-ROMS für eine Vielzahl
 
 Website: https://lineageos.org/
 
-[here](/LineageOS/Samsung/SM-G970F/)
+ -[Samsung Galaxy S10e](/LineageOS/Samsung/SM-G970F/)
 
 ## Quellen
 
