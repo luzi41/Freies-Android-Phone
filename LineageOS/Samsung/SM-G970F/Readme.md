@@ -11,6 +11,6 @@ Für das Samsung Galaxy S10e gibt es derzeit kein offizielles Custom-ROM von Lin
 
 Wenn sich auf dem Gerät Daten befinden, sollte unbedingt vor weiteren Schritten eine Datensicherung ausgeführt werden. Das kann am besten unter Windows mit dem aktuellen Tool von Samsung "Smartswitch" durchgeführt werden.
 
-[Samsung Download](https://www.samsung.com/de/apps/smart-switch/)
+[Samsung Smartswitch Download](https://www.samsung.com/de/apps/smart-switch/)
 
 ### Unlocking Bootloader
