@@ -1,0 +1,1 @@
+# Allgemein für alle Modlle
