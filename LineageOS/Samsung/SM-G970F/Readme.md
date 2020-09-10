@@ -13,4 +13,8 @@ Wenn sich auf dem Gerät Daten befinden, sollte unbedingt vor weiteren Schritten
 
 [Samsung Smartswitch Download](https://www.samsung.com/de/apps/smart-switch/)
 
+Eine weitere Voraussetzung ist das Vorhandensein eines aktuellen Firmware-ROMS (Stock-ROM) zu patchen von Lineage OS
+
+[G975F]_Stock-DBT-10.0-XXU8CTG4-FW_v9.1.zip Download](https://androidfilehost.com/?fid=8889791610682903960)
+
 ### Unlocking Bootloader
