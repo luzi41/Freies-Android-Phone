@@ -23,6 +23,9 @@ Für das Samsung Galaxy S10e gibt es derzeit kein offizielles Custom-ROM von Lin
 
 #### Voraussetzungen
 
+- Geduld: Es sind viele Arbeitsschritte notwendig, die teilweise sehr zeitaufwendig sind und außerdem äußerst penibel ausgeführt werden müssen. 
+- Rsikobereitschaft: 
+
 ## Quellen
 
 https://forum.xda-developers.com/galaxy-s10/
