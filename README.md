@@ -16,3 +16,10 @@ LineageOS ist aus dem beliebten und bewährtem Cyanomod.Projekt hervorgegangen, 
 LineageOS ist im Gegensatz zu den meisten anderen Custom-ROMS für eine Vielzahl an Android-Geräten verfügbar. Auch wenn noch kein offizielles Custom-ROM vorliegt, besteht die Chance, dass inoffizielle Custom-ROMs für neuere Modelle bereits von diversen Entwicklern veröffentlicht worden sind.
 
 Website: https://lineageos.org/
+
+### LineageOS auf Samsung Galaxy S10e (SM-G970F)
+
+Für das Samsung Galaxy S10e gibt es derzeit kein offizielles Custom-ROM von LineageOS. Auf XDA-Developers finddet man jedoch einige aktuelle LineageOS-Versionen auch für das besagte Samsung Galaxy S10e.
+
+
+## Quellen
