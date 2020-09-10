@@ -7,6 +7,10 @@ Nachdem Google etliche wichtige Komponenten aus dem queloffenen Android-Kern aus
 
 ## Custom ROMs
 
-androidpit.de: "Allen Custom-ROMs gemein ist, dass sie ohne Google-Apps ausgeliefert werden. Wer ohnehin Android ohne Google verwenden wollte, ist damit aber noch nicht gut bedient. Wichtige Mitbringsel der Google-Suite wie Standortdienste, Play Store und Diebstahlschutz sollten nicht fehlen."
+Allen Custom-ROMs gemein ist, dass sie ohne Google-Apps ausgeliefert werden.  Nachteil: Wichtige Mitbringsel der Google-Suite wie Standortdienste, Play Store und Diebstahlschutz fehlen."
 
-Quelle: AndoidPit, Die besten Custom-Roms im Überblick, Url: https://www.androidpit.de/die-besten-custom-roms-android-varianten-im-ueberblick, zuletzt abgerufen: 31.08.2019
+## LineageOS
+
+LineageOS ist aus dem beliebten und bewährtem Cyanomod.Projekt hervorgegangen, das jahrelang stabile Custom-ROMS für viele Android-Phones publiziert hat. LineageOS bringt viele nützliche Features mit, die die Sicherheit und Privatsphäre erhöhen.
+
+Website:
