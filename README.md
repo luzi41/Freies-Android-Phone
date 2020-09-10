@@ -3,7 +3,7 @@ Anleitung für ein Smartphone auf Android-Basis ohne Google-Services. Diese Anle
 
 ## Motivation für ein "freies Smartphone"
 
-- Schutz vor kommerzieller Ausspähung und staatlicher Überwachung
+- Schutz vor kommerzieller Ausspähung und staatlicher Überwachung: siehe hier: https://www.os-regio.de/de/news-details/freie-software-die-macht-des-teilens
 - Unabhängigkeit von propritiärer Software
 - Experimentierfreudigkeit
 
