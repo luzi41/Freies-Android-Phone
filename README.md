@@ -13,4 +13,4 @@ Allen Custom-ROMs gemein ist, dass sie ohne Google-Apps ausgeliefert werden.  Na
 
 LineageOS ist aus dem beliebten und bewährtem Cyanomod.Projekt hervorgegangen, das jahrelang stabile Custom-ROMS für viele Android-Phones publiziert hat. LineageOS bringt viele nützliche Features mit, die die Sicherheit und Privatsphäre erhöhen.
 
-Website:
+Website: https://lineageos.org/
