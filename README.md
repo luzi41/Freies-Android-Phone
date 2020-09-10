@@ -1,6 +1,12 @@
 # Freies-Android-Phone
 Anleitung für ein Smartphone auf Android-Basis ohne Google-Services. Diese Anleitung ist für unerfahrene Benutzer gedacht, die ein Smartphone haben wollen, welches keine Daten automatisch an Softwareanbieter wie Google etc. übermittelt. 
 
+## Motivation für ein "freies Smartphone"
+
+- Schutz vor kommerzieller Ausspähung und staatlicher Überwachung
+- Unabhängigkeit von propritiärer Software
+- Experimentierfreudigkeit
+
 Ideen und Anregungen sind herzlich willkommen!
 
 Nachdem Google etliche wichtige Komponenten aus dem queloffenen Android-Kern ausgelagert und in geschlossene Google-Dienste überführt hatte, sind etliche Android-Apps inzwischen abhängig von den Closed-Source-Komponenten wie dem Standortdienst oder dem Cloud Messaging.
