@@ -33,6 +33,8 @@ Github: https://github.com/LineageOS
 
 ## Quellen
 
-https://forum.xda-developers.com/galaxy-s10/
+https://forum.xda-developers.com/
+
+https://wiki.lineageos.org/
 
 https://www.och-group.de/2020/05/samsung-s10e-root-und-custom-rom-installation/
