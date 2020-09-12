@@ -27,7 +27,7 @@ Github: https://github.com/LineageOS
 
 ### Anleitungen für verschiedene Modelle
 
-Die allgemeinen Schritte zur Installation eines Custom_ROMs sind für alle Android Phones gleich:
+Die allgemeinen Schritte zur Installation eines Custom-ROMs sind für alle Android Phones gleich:
 
 1. Entsperren des Bootloaders
 
