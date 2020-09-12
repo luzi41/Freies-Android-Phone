@@ -29,7 +29,7 @@ Github: https://github.com/LineageOS
 
  - [Samsung Galaxy S10e](/LineageOS/Samsung/SM-G970F/)
  - Samsung Galaxy Note 4
- - Huawei P20 Pro
+ - [Huawei P20 Pro](https://wiki.lineageos.org/devices/charlotte/install)
 
 ## Quellen
 
