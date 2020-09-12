@@ -21,3 +21,6 @@ https://magiskmanager.com/
 Odin ist eine Windows-Software, die für das Flashen von Custom-ROMs vom PC benötigt wird.
 
 https://odindownload.com/download/
+
+
+## TWRP
