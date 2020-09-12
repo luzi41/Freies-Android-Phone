@@ -27,6 +27,18 @@ Github: https://github.com/LineageOS
 
 ### Anleitungen für verschiedene Modelle
 
+Die allgemeinen Schritte zur Installation eines Custom_ROMs sind für alle Android Phones gleich:
+
+1. Entsperren des Bootloaders
+
+2. Patchen des aktuellen Betriebssystems mit neuem Bootloader
+
+3. Löschen des aktuellen Betriebssystems
+
+4. Installieren des neuen Betriebssystems (Custom-ROM)
+
+Im Detail unterscheidet sich die Vorgehensweise je nach Modell. Hier sind ein paar Anleitungen für verschiedene Modelle:
+
  - [Samsung Galaxy S10e](/LineageOS/Samsung/SM-G970F/)
  - Samsung Galaxy Note 4
  - [Huawei P20 Pro](https://wiki.lineageos.org/devices/charlotte/install)
