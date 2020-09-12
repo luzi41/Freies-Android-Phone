@@ -2,7 +2,13 @@
 
 ## ADB und Fastboot
 
-https://forum.xda-developers.com/showthread.php?t=2588979
+Wird benötigt, um das Smarphone mit dem PC zu verbinden.
+
+Download für Windows: https://forum.xda-developers.com/showthread.php?t=2588979
+
+Linux: Installieren mit dem jeweiligen Paketmanager z.B. apt: 
+
+$> sudo apt-get install adb fastboot
 
 ## Magisk-Manager
 
