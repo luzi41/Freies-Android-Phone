@@ -26,6 +26,8 @@ Website: https://lineageos.org/
 ### Anleitungen für verschiedene Modelle
 
  - [Samsung Galaxy S10e](/LineageOS/Samsung/SM-G970F/)
+ - Samsung Galaxy Note 4
+ - Huawei P20 Pro
 
 ## Quellen
 
