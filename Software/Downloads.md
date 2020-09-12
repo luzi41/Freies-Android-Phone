@@ -1,5 +1,7 @@
 # Allgemein für alle Modelle
 
+## ADB und Fastboot
+
 ## Magisk-Manager
 
 Der Magisk-Manager ist eine Android-Software, die zun patchen von Custom-ROMS benötigt wird.
