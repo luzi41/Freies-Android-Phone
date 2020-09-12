@@ -1,2 +1,1 @@
-
-[Samsung Smartswitch Download](https://www.samsung.com/de/apps/smart-switch/)
+[Samsung Smartswitch](https://www.samsung.com/de/apps/smart-switch/)
