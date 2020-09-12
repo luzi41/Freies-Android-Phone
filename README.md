@@ -22,6 +22,7 @@ LineageOS ist aus dem beliebten und bewährtem Cyanomod.Projekt hervorgegangen, 
 LineageOS ist im Gegensatz zu den meisten anderen Custom-ROMS für eine Vielzahl an Android-Geräten verfügbar. Auch wenn noch kein offizielles Custom-ROM vorliegt, besteht die Chance, dass inoffizielle Custom-ROMs für neuere Modelle bereits von diversen Entwicklern veröffentlicht worden sind.
 
 Website: https://lineageos.org/
+Github: https://github.com/LineageOS
 
 ### Anleitungen für verschiedene Modelle
 
